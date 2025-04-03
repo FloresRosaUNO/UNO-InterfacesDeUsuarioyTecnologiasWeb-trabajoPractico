@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <conio.h>  // Para _kbhit() y _getch() en Windows
-
+// hola
 #define WIDTH 10
 #define HEIGHT 20
 
